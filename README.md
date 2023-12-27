@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **how to make sense of your data (Data Science and Business Growth)**
 
-- 📫 How to reach me **bhavika.hireme@gmail.com**
+- 📫 I'd love to connect with you and discuss about emerging technologies. Reach me at **bhavika.hireme@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
