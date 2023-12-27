@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **how to make sense of your data (Data Science and Business Growth)**
 
-- 📫 I'd love to connect with you and discuss about emerging technologies. Reach me via <a href="bhavika.hireme@gmail.com">Email</a> or connect with me on <a href="https://linkedin.com/in/bhavika-karale/" target="blank">LinkedIn</a>
+- 📫 I'd love to connect with you and discuss about emerging technologies. Reach me at **bhavika.hireme@gmail.com** or connect with me on <a href="https://linkedin.com/in/bhavika-karale/" target="blank">LinkedIn</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
