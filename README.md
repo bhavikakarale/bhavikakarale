@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pursuing **Master of Science in Applied Data Science at Syracuse University and will be graduating in May 2025**
 
-- 💬 Ask me about **Data Science, Frontend Development and Business Growth**
+- 💬 Ask me about **how to make sense of your data (Data Science and Business Growth)**
 
 - 📫 How to reach me **bhavika.hireme@gmail.com**
 
