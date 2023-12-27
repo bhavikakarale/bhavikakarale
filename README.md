@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavika</h1>
-<h3 align="center">I am passionate about using data to derive insights that help businesses strategize growth</h3>
+<h3 align="center">I am passionate about using data to derive insights that help businesses strategize growth.</h3>
 
-- 🌱 I’m currently pursuing **Master of Science in Applied Data Science at Syracuse University**
+- 🌱 I’m currently pursuing **Master of Science in Applied Data Science at Syracuse University and will be graduating in May 2025**
 
 - 💬 Ask me about **Data Science, Frontend Development and Business Growth**
 
